@@ -1,6 +1,6 @@
 
 # Olá, meu nome é Bruno 👋 
-### Estou na área de programação desde o final do ano de 2022.Estou iniciando e sempre procurando aprender linguagens novas. Atualmente faço faculdade na Ulbra Torres, no curso e ADS - Primeiro semeste.
+### Estou na área de programação desde o final do ano de 2022. Estou iniciando e sempre procurando me aprimorar. Atualmente faço faculdade na Ulbra Torres, no curso e ADS - Primeiro semeste. Também faço cursos online para aprender novas linguages e tecnologias.
 
 #
 
@@ -13,7 +13,7 @@
 
 #
 
-## Tecnolôgias do dia a dia:
+## Tecnologias do dia a dia:
 
 <div style="display: inline-block; margin-left: 10%;"><br>
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
